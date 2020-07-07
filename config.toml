@@ -1,0 +1,5 @@
+baseURL = "https://cyhsu.github.io/hugo-blog/"
+languageCode = "zh-tw"
+title = "My New Hugo Site"
+theme = 'ananke'
+publishDir = 'docs'
